@@ -1,0 +1,8 @@
+pandas
+requests
+feedparser
+matplotlib
+nltk
+textblob
+pymongo
+python-dotenv
